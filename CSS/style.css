@@ -1,0 +1,34 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-container{
+    top: 0;
+    background-color: cadetblue;
+    position: sticky;
+    z-index: 2;
+}
+
+.about-container{
+    background-color: burlywood;
+}
+
+.education-container{
+    background-color: aqua;
+}
+
+.redtype-text{
+    color: salmon;
+    font-size: 35px;
+}
+
+.circle{
+    background-color: cornflowerblue;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.project_container{
+    background-color: aquamarine;
+}

@@ -17,6 +17,7 @@ body{
     background-color: aqua;
 }
 
+
 .redtype-text{
     color: salmon;
     font-size: 35px;
@@ -31,4 +32,23 @@ body{
 
 .project_container{
     background-color: aquamarine;
+}
+
+.footer{
+    background-color: #2285A9;
+}
+
+.circle-icon{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: #2285A9;
+}
+
+.circle-icon:hover{
+    background-color:aqua;
 }
